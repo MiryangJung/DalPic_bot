@@ -7,8 +7,7 @@ ID : __@Dalpic_bot__
 Link : [t.me/DalPic_bot](https://t.me/DalPic_bot)
 
 ## Screenshots
-![pic_one](ScreenShot1.jpg)
-![pic_two](ScreenShot2.jpeg)
+![pic](ScreenShot.jpg)
 
 ## Tech/framework used
  - node-telegram-bot-api
