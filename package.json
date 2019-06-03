@@ -1,0 +1,26 @@
+{
+  "name": "DalPic_bot",
+  "version": "1.0.0",
+  "description": "Node.js server for Telegrambot @DalPic_bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalhav/DalPic_bot.git"
+  },
+  "keywords": [],
+  "author": "Dalha.v",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dalhav/DalPic_bot/issues"
+  },
+  "homepage": "https://github.com/dalhav/DalPic_bot#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-telegram-bot-api": "^0.30.0",
+    "request": "^2.88.0"
+  }
+}
