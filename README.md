@@ -6,7 +6,7 @@
 ID : __@Dalpic_bot__<br>
 Link : [t.me/DalPic_bot](https://t.me/DalPic_bot)
 
-## Screenshots
+## Demo
 ![pic](dalpicbot.gif)
 
 ## Tech/framework used
