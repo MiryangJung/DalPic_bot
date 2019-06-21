@@ -1,5 +1,5 @@
 
-# The operation is now closed.
+# This Bot is now closed.
 
 ## Project title
 **DalPic_bot** Telegram bot Node.js Server
