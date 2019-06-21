@@ -1,4 +1,6 @@
 
+# The operation is now closed.
+
 ## Project title
 **DalPic_bot** Telegram bot Node.js Server
 
@@ -40,10 +42,10 @@ const API_KEY =YOUR_API_KEY; //This is Pixabay API_KEY
 ~~~
 
 ## Tutorial
-[dalhav.github.io](https://dalhav.github.io/2019/06/06/DalPicbot/)
+[miryang.dev](https://miryang.dev/2019/06/06/DalPicbot/)
 
 ## License
 [MIT License](LICENSE)
 
 ## MADE
-© [Dalhav]
+© [Miryang]
